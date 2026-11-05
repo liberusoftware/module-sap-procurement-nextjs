@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-procurement-nextjs",
+  "capabilityKey": "planned:sap:procurement",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-sap-procurement-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/sap/nextjs/procurement.md",
+  "presentationPlan": "projects/sap/nextjs/procurement.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
